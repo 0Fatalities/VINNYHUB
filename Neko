@@ -7,6 +7,6 @@ local Fucker = Main:NewSection("Fucker")
 
 Section:NewLabel("Shitter")
 
-Fucker:NewButton("NekoFucker", "Fucks Nekos", function()
-    loadstring(game:HttpGet('https://pastebin.com/gSMNaSdA'))()
+Fucker:NewButton("NiggaFucker", "Fucks Niggers", function()
+    loadstring(game:HttpGet('https://pastebin.com/raw/gSMNaSdA'))()
 end)
